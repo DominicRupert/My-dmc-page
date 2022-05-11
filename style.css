@@ -1,0 +1,19 @@
+.dmc {
+  font-family: "Macondo", cursive;
+  color: red;
+  
+}
+.side-img {
+  height: 100vh;
+  width: 30%
+}
+@media only screen and (min-width: 768px) {
+  main {
+    margin-left: 30% !important;
+  }
+}
+.side-img img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
